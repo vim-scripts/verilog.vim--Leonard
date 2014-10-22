@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5040
+
+This script provides indentation rules for Verilog and SystemVerilog constructs. Indentation scripts like this sometimes require changing your coding style a bit to match the limitations of the script. This one, for example, can only look back one or two lines. You'll need to use begin and end statements for any non-sectional block that has more than one line (like "always" as opposed to "task"). I've been using and improving this script for years now, so I expect there will always be a way to organize your syntax for compatibility with this script.
